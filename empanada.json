@@ -1,0 +1,24 @@
+{
+"items":
+    [
+        {
+        "backdrop_path": "",
+        "description": "A crusty, gravy and beef (carne) filled succulent pastry.",
+        "englishName": "Caramel",
+        "image_path": "/Images/Sweet_empanada_default.jpg",
+        "pricePerUnit": 150,
+        "spanishName": "Caramelo",
+        "taste": "sweet"
+        },
+        {
+        "backdrop_path": "",
+        "description": "A crispy sugar coated caramelo (caramel) empanada, best served warm with ice creame",
+        "englishName": "Beef",
+        "image_path": "/Images/Savoury_empanada_default.jpg",
+        "pricePerUnit": 150,
+        "spanishName": "Carne",
+        "taste": "sweet"
+        }
+    ],
+"discountPerMultipleOfFour":10
+}
