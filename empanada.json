@@ -1,4 +1,5 @@
 {
+"discount_per_multiple_of_four": 10,
 "items":
     [
         {
@@ -9,7 +10,7 @@
         "price_per_unit": 150,
         "spanish_name": "Caramelo Empanada",
         "taste": "sweet"
-        },PattyPatty
+        },
         {
         "backdrop_path": "",
         "description": "A crispy sugar coated caramelo (caramel) empanada, best served warm with ice creame",
@@ -19,6 +20,5 @@
         "spanish_name": "Carne Empanada",
         "taste": "sweet"
         }
-    ],
-"discount_per_multiple_of_four":10
+    ]
 }
