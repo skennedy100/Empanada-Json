@@ -3,18 +3,18 @@
 "items":
     [
         {
-        "id": "caramelEmpanada",
         "english_name": "Caramel Empanada",
+        "id": "caramelEmpanada",
         "image_path": "/Images/Sweet_empanada_default.jpg",
-        "price_per_unit": 1.50,
-        "spanish_name": "Caramelo Empanada",
+        "price_per_unit": 1.5,
+        "spanish_name": "Caramelo Empanada"
         },
         {
-        "id": "beefEmpanada",
         "english_name": "Beef Empanada",
+        "id": "beefEmpanada",
         "image_path": "/Images/Savoury_empanada_default.jpg",
-        "price_per_unit": 1.50,
-        "spanish_name": "Carne Empanada",
+        "price_per_unit": 1.5,
+        "spanish_name": "Carne Empanada"
         }
     ]
 }
