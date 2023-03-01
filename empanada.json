@@ -10,7 +10,7 @@
         "spanish_name": "Caramelo Empanada",
         },
         {
-        "is": "beefEmpanada",
+        "id": "beefEmpanada",
         "english_name": "Beef Empanada",
         "image_path": "/Images/Savoury_empanada_default.jpg",
         "price_per_unit": 1.50,
