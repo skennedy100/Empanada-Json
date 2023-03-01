@@ -1,0 +1,10 @@
+{
+"backdrop_path": "",
+"description": "A crusty, gravy and beef (carne) filled succulent pastry.",
+"english_name": "Beef Empanada",
+"id": "beefEmpanada",
+"image_path": "/Images/Savoury_empanada_default.jpg",
+"price_per_unit": 1.5,
+"spanish_name": "Beef Empanada",
+"taste": "savoury"
+}

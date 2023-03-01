@@ -1,0 +1,10 @@
+{
+"backdrop_path": "/Images/Sweet_empanada_default.jpg",
+"description": "A sugar coated, caramel (caramelo) filled crispy pastry.",
+"english_name": "Caramel Empanada",
+"id": "caramelEmpanada",
+"image_path": "/Images/Sweet_empanada_default.jpg",
+"price_per_unit": 1.5,
+"spanish_name": "Caramelo Empanada",
+"taste": "sweet"
+}
